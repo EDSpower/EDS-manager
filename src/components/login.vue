@@ -67,12 +67,10 @@
     }
   }
 </script>
-<style lang="scss">
-    body{
-        background-color: yellowgreen;
-    }
+<style lang="scss" >
+    
     .form-container{
-        background-color: white;
+        background-color: yellowgreen;
         padding: 20px 40px 40px;
         width: 800px;
         border-radius: 6px;
